@@ -1,5 +1,5 @@
 ﻿import random
-
+# Ascii Art 
 rock = '''
     _______
 ---'   ____)
@@ -34,7 +34,7 @@ lost = '''
       (____)
 ---.__(___)
 '''
-#Write your code below this line 👇
+
 print("Welcome to the Rock, Paper, Scissors Game!")
 answer = input("Will you play? Type 'y' or 'n': ")
 while answer == "y": 
